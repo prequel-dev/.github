@@ -14,3 +14,5 @@ Docs: https://docs.prequel.dev/
 
 [Join us on Slack](https://inviter.co/prequel)
 
+This is our [website](https://www.prequel.dev/blog)
+
